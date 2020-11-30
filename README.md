@@ -1,2 +1,2 @@
 # Least-Common-Multiple
-Calculating LCM of two numbers using euclidian GCD algorithm.
+Jva Program to Calculate LCM of two numbers using euclidian GCD algorithm and display it.
